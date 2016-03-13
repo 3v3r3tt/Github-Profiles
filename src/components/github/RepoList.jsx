@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Repo from './repo.jsx'
+import Repo from './Repo.jsx'
 
 class RepoList extends Component{
   render(){
